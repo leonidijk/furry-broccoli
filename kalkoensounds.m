@@ -1,0 +1,1 @@
+print("klu klu klu klu klu klu klu");
